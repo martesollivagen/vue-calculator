@@ -1,5 +1,6 @@
 {
  "reviews": [
+  {"name": "Marte", "email":"email@eks.com", "feedback":"veldig bra!"},
   {"name": "Marte", "email":"email@eks.com", "feedback":"veldig bra!"}
  ]
 }
