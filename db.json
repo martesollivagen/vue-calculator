@@ -1,6 +1,7 @@
 {
  "reviews": [
   {"name": "Marte", "email":"marte@gmail.com", "feedback":"Kult!"},
-  {"name": "Fredrik", "email":"fredrik@gmail.com", "feedback":"veldig bra!"}
+  {"name": "Fredrik", "email":"fredrik@gmail.com", "feedback":"veldig bra!"},
+  {"name": "gfd", "email":"martevagen2001@gmail.com", "feedback":"veldig bra!"}
  ]
 }
